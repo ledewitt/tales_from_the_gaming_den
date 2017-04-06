@@ -34,6 +34,6 @@ article {
     overflow: hidden;
 }
 
-h1 {
-  color: ;
+article h1 {
+  color: green;
 }
